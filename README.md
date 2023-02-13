@@ -1,1 +1,1 @@
-# Assignment-06-Simple-Linear-regression
+# Assignment-01-Simple-Linear-regression
